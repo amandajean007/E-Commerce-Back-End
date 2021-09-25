@@ -15,7 +15,11 @@ The projects aim is to create a back end for an e-commerce website which will he
 ## Installation <a name="installation"></a>
 Open the file in VS Code. Open the integrated terminal and run "npm i" to download the dependencies. Run "npm seed". Run "npm start". Open Insomnia and find the routes and data.
 ## Technologies <a name="technologies"></a>
-#### -
+ - dotenv
+ - express
+ - mysql2
+ - sequelize
+ - javascript
 ## License <a name="license"></a>
 MIT License
 ## Contributions <a name="contributions"></a>
