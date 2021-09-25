@@ -23,8 +23,8 @@ Open the file in VS Code. Open the integrated terminal and run "npm i" to downlo
 ## License <a name="license"></a>
 MIT License
 ## Contributions <a name="contributions"></a>
-##### You can make contributions to my project here! 
- <button target=_blank href="https://github.com/amandajean007">Contribute Here</button>
+You can make contributions to my project here!
+<button target=_blank href="https://github.com/amandajean007">https://github.com/amandajean007</button>
 ## Illustrations <a name="illustrations"></a>
 Create schema and run seeds:
 https://user-images.githubusercontent.com/85036414/134788351-74071f89-9e7b-4a2c-982c-c5d43ddbc350.mp4
